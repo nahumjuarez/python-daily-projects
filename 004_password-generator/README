@@ -1,0 +1,29 @@
+s# Password Generator
+
+This is my fourth Python project. It is a simple password generator that creates random passwords based on user preferences.
+
+The program allows the user to:
+- choose the password length
+- include numbers
+- include symbols
+
+## Features
+
+- Random password generation
+- Custom password length
+- Optional numbers
+- Optional symbols
+- Console-based interaction
+
+## Technologies Used
+
+- Python 3
+
+## How to Run
+
+1. Make sure Python 3 is installed.
+2. Save the script as `main.py`
+3. Run:
+
+```bash
+python main.py
